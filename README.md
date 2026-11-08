@@ -12,7 +12,7 @@ Currently learning, experimenting, and turning ideas into projects.
 
 **Languages & Tools**
 
-`Python` `Java` `HTML` `CSS` `Git` `GitHub`
+`Python` `Java` `HTML` `PHP` `CSS` `Git` `GitHub`
 
 **Areas of Interest**
 
